@@ -1,0 +1,24 @@
+{
+  "name": "address",
+  "version": "1.0.0",
+  "description": "Get Address",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Flyker/address.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Flyker/address/issues"
+  },
+  "homepage": "https://github.com/Flyker/address#readme",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "iconv-lite": "^0.6.1",
+    "linq": "^3.2.2"
+  }
+}

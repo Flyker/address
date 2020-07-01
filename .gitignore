@@ -1,0 +1,5 @@
+node_modules
+dist
+# Code Editor Enviropment
+.idea
+.vscode
